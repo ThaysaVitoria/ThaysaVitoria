@@ -24,4 +24,6 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/thaysafirmino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
+  <a href="https://thaysavitoria.wixsite.com/novo" target="_blank"><img src="https://camo.githubusercontent.com/249a787965ddca5f4f63e2c8f9e3afaae01fd331e722242a333005543bf1f6f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f727466c3b36c696f2d2532334536303032333f7374796c653d666f722d7468652d6261646765266c6f676f3d646576646f74746f266c6f676f436f6c6f723d7768697465" target="_blank"></a>  
 </div>
